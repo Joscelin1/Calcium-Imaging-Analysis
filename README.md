@@ -1,2 +1,2 @@
-# Whole-cell-Patch-Clamp-Recordings
-For analysis of Whole-cell Patch Clamp Recordings of GP neurons 
+# Calcium Imaging Analysis
+For analysis of Calcium Imaging Recordings of GP neurons 
